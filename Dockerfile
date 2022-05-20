@@ -7,6 +7,10 @@
 # update 8 - branch03
 # update 9 - branch04
 # update10 - branch05
+# update11 - branch04
+# update12- branch06
+# update13- branch07
+# update14b - branch08
 
 FROM tomcat:latest
 COPY ./webapp.war /usr/local/tomcat/webapps
